@@ -1,1 +1,1 @@
-# The Austin-Airbnb-Regression repository includes code utlizing linear regression, decision trees, and k-means clustering. As well, there is a small section on predicting if an Airbnb will stay booked.
+### The Austin-Airbnb-Regression repository includes code utlizing linear regression, decision trees, and k-means clustering. As well, there is a small section on predicting if an Airbnb will stay booked.
